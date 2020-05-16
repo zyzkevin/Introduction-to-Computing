@@ -1,0 +1,24 @@
+﻿  game of Amazons.cpp
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(549,13): error C2079: “in”使用未定义的 class“std::basic_ifstream<char,std::char_traits<char>>”
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(560,9): warning C4552: ”>>“: 未使用表达式结果
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(591,19): error C2079: “out”使用未定义的 class“std::basic_ofstream<char,std::char_traits<char>>”
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(656,13): error C2065: “black”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(657,13): error C2065: “white”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(658,13): error C2065: “save”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(659,13): error C2065: “load”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(660,13): error C2065: “leave”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(685,45): error C2065: “black”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(698,45): error C2065: “white”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(714,45): error C2065: “white”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(726,21): error C2065: “save”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(728,5): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(728,5): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(729,65): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(734,22): error C2065: “save”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(735,5): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(735,5): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(736,67): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(741,21): error C2065: “leave”: 未声明的标识符
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(742,5): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(742,5): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+C:\Users\Kevin\Desktop\game of Amazons\game of Amazons.cpp(743,67): warning C4804: “<=”: 在操作中使用类型“bool”不安全

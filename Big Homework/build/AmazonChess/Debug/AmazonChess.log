@@ -1,0 +1,7 @@
+﻿  bot.cpp
+C:\Users\Kevin\Desktop\build\AmazonChess\bot.cpp(154,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  game.cpp
+  map.cpp
+  play.cpp
+  正在生成代码...
+  AmazonChess.vcxproj -> C:\Users\Kevin\Desktop\build\AmazonChess\Debug\AmazonChess.exe

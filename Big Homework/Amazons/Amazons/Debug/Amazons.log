@@ -1,0 +1,14 @@
+﻿  源.cpp
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(109,8): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(109,8): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(110,71): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(116,8): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(116,8): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(117,73): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(123,8): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(123,8): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(124,73): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(172,16): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(172,16): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+D:\College\CS\Big Homework\Amazons\Amazons\源.cpp(172,109): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+  Amazons.vcxproj -> D:\College\CS\Big Homework\Amazons\Debug\Amazons.exe
